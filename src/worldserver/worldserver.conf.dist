@@ -1204,7 +1204,7 @@ Instance.IgnoreRaid = 0
 #        Default:     0 - (Disabled, Only GM accounts can be summoned by GM)
 #                     1 - (Enabled, GM and Player accounts can be summoned by GM)
 
-Instance.GMSummonPlayers = 0
+Instance.GMSummonPlayer = 0
 
 #
 #    Instance.ResetTimeHour
